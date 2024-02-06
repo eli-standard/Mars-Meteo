@@ -6,7 +6,7 @@ https://mars.nasa.gov/mars2020/mission/weather/
 and   
 https://mars.nasa.gov/msl/mission/weather/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is hosted at https://eli-standard.github.io/Mars-Meteo/
 
 # Getting Started with Create React App
 
